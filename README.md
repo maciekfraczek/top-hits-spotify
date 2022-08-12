@@ -20,7 +20,7 @@ The most important findings can be found here.
 
 ### Results
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available The main findings of the code can be found at the post available [here](https://medium.com/@maciek.fraczek85/what-makes-a-song-become-a-hit-c35593f08c9).
 
 ### Licensing, Authors, Acknowledgements
 
